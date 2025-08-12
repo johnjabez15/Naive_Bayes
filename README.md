@@ -135,3 +135,14 @@ The application predicts the loan approval status, which can be either **Approve
 * **Feature Engineering:** Explore more complex features, such as ratios of income or different ways to handle categorical data, to improve the model's predictive accuracy.
 * **Model Deployment:** Deploy the Flask application to a cloud platform like Heroku or Render for public access.
 * **User Interface:** Enhance the web application with a more interactive UI, providing visualizations or a confidence score for each prediction.
+
+
+## Screen Shots
+
+**Home Page:**
+
+<img width="1920" height="1080" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/06341a24-d9d5-4abc-8748-be5b6341b989" />
+
+**Result Page:**
+
+<img width="1920" height="1080" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/1129c1fc-66f8-4c82-b908-c9a755496a12" />
